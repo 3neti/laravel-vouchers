@@ -1,6 +1,6 @@
 {
-    "name": "frittenkeez/laravel-vouchers",
-    "description": "Voucher system for Laravel 9+",
+    "name": "3neti/laravel-vouchers",
+    "description": "Voucher system for Laravel 10+",
     "license": "MIT",
     "keywords": [
         "coupon",
@@ -13,22 +13,25 @@
         {
             "name": "Frederik Sauer",
             "email": "fritten.keez@gmail.com"
+        },
+        {
+            "name": "Lester Hurtado",
+            "email": "lester@hurtado.ph"
         }
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/collections": "^10.0|^11.0|^12.0",
-        "illuminate/config": "^10.0|^11.0|^12.0",
-        "illuminate/console": "^10.0|^11.0|^12.0",
-        "illuminate/database": "^10.0|^11.0|^12.0",
-        "illuminate/support": "^10.0|^11.0|^12.0"
+        "illuminate/collections": "^10.0|^11.0|^12.0|^13.0",
+        "illuminate/config": "^10.0|^11.0|^12.0|^13.0",
+        "illuminate/console": "^10.0|^11.0|^12.0|^13.0",
+        "illuminate/database": "^10.0|^11.0|^12.0|^13.0",
+        "illuminate/support": "^10.0|^11.0|^12.0|^13.0"
     },
     "require-dev": {
-        "illuminate/support": "^10.0|^11.0|^12.0",
         "laravel/pint": "^1.20",
         "nesbot/carbon": "^2.63|^3.8.4",
-        "orchestra/testbench": "^8.0|^9.0|^10.0",
-        "pestphp/pest": "^2.2|^3.0"
+        "orchestra/testbench": "^8.0|^9.0|^10.0|^11.0",
+        "pestphp/pest": "^2.2|^3.0|^4.0"
     },
     "config": {
         "allow-plugins": {

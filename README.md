@@ -22,6 +22,10 @@
 - [Testing](#testing)
 - [License](#license)
 
+## Acknowledgement
+This package is a fork of frittenkeez/laravel-vouchers.
+If upstream adds official Laravel 13 support, consider migrating back to the original package.
+
 ## Installation
 Install this package via Composer:
 ```bash
